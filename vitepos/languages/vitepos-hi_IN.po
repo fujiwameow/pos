@@ -1,0 +1,2391 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VitePOS\n"
+"POT-Creation-Date: 2022-11-05 10:29+0000\n"
+"PO-Revision-Date: 2022-11-05 10:33+0000\n"
+"Last-Translator: \n"
+"Language-Team: Hindi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: ;__;_e;_ee;___;add_error;add_info;SetTitle;AddInfo;"
+"AddError;SetSubtitle;___;AddModel;AddModelNonSearchable\n"
+"X-Poedit-Flags-xgettext: --no-location\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .git\n"
+"X-Poedit-SearchPathExcluded-1: .idea\n"
+"X-Poedit-SearchPathExcluded-2: dbscript\n"
+"X-Poedit-SearchPathExcluded-3: languages\n"
+"X-Poedit-SearchPathExcluded-4: tmp\n"
+"X-Poedit-SearchPathExcluded-5: node_modules\n"
+"X-Poedit-SearchPathExcluded-6: release\n"
+"X-Poedit-SearchPathExcluded-7: logs\n"
+"X-Poedit-SearchPathExcluded-8: template/client\n"
+"X-Poedit-SearchPathExcluded-9: template/main\n"
+"X-Poedit-SearchPathExcluded-10: dev_files\n"
+"X-Poedit-SearchPathExcluded-11: adminpanel\n"
+"X-Poedit-SearchPathExcluded-12: *.js\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: hi_IN\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.6.2; wp-6.0.3"
+
+#, php-format
+msgid "%s should be digit"
+msgstr "%s अंक होना चाहिए"
+
+#, php-format
+msgid "%s should be numeric"
+msgstr "%s सांख्यिक होना चाहिए"
+
+#, php-format
+msgid " %s should be less than %s"
+msgstr "%s %s . से कम होना चाहिए"
+
+#, php-format
+msgid "%s should be a valid email address"
+msgstr "%s एक वैध ईमेल पता होना चाहिए"
+
+msgid " should be hexadecimal"
+msgstr "हेक्साडेसिमल होना चाहिए"
+
+#, php-format
+msgid " %s are required"
+msgstr "%s आवश्यक हैं"
+
+#, php-format
+msgid " %s is required"
+msgstr "%s आवश्यक है"
+
+msgid "E004"
+msgstr "E004"
+
+msgid "No change for update"
+msgstr "अपडेट के लिए कोई बदलाव नहीं"
+
+msgid "Saved Successfully"
+msgstr "सफलतापूर्वक बचाया"
+
+msgid ""
+"We're sorry but pos doesn't work properly without JavaScript enabled. Please "
+"enable it to continue."
+msgstr ""
+"हमें खेद है, लेकिन जावास्क्रिप्ट सक्षम किए बिना पॉज़ ठीक से काम नहीं करता "
+"है। जारी रखने के लिए कृपया सक्षम करें।"
+
+msgid "Please wait .."
+msgstr "कृपया प्रतीक्षा करें .."
+
+msgid "You do not have permission to access this link"
+msgstr "आपको इस लिंक तक पहुंचने की अनुमति नहीं है"
+
+msgid "The page is redirecting to home page withing few seconds"
+msgstr "पेज कुछ ही सेकंड में होम पेज पर रीडायरेक्ट हो रहा है"
+
+msgid "Drawer opened"
+msgstr "दराज खोला गया"
+
+msgid "Drawer closed"
+msgstr "दराज बंद"
+
+msgid "Successfully deleted"
+msgstr "सफलतापूर्वक हटा दिया गया"
+
+msgid "Delete failed"
+msgstr "मिटाना विफल"
+
+msgid "Successfully updated"
+msgstr "सफलतापूर्वक उत्परिवर्तित"
+
+msgid "Successfully created"
+msgstr "सफलतापूर्वक बनाया गया"
+
+msgid "No customer found to add"
+msgstr "जोड़ने के लिए कोई ग्राहक नहीं मिला"
+
+msgid "Offline id is missing"
+msgstr "ऑफलाइन आईडी गायब है"
+
+msgid "No offline outlet and counter found"
+msgstr "कोई ऑफ़लाइन आउटलेट और काउंटर नहीं मिला"
+
+msgid "Paid amount must be greater or equal to grand total amount"
+msgstr "भुगतान की गई राशि कुल राशि से अधिक या उसके बराबर होनी चाहिए"
+
+msgid "Fee"
+msgstr "शुल्क"
+
+msgid "Discount"
+msgstr "छूट"
+
+msgid "You don't have permission to view details of this outlet"
+msgstr "आपको इस आउटलेट का विवरण देखने की अनुमति नहीं है"
+
+msgid "No cash drawer info found"
+msgstr "कोई नकद दराज जानकारी नहीं मिली"
+
+msgid "Invalid request"
+msgstr "अमान्य अनुरोध"
+
+msgid "invalid requiest"
+msgstr "अमान्य अनुरोध"
+
+msgid "Product created successfully"
+msgstr "उत्पाद सफलतापूर्वक बनाया गया"
+
+msgid "Product creation failed"
+msgstr "उत्पाद निर्माण विफल"
+
+msgid "Please Provide a SKU or Change The name of Product"
+msgstr "कृपया एक SKU प्रदान करें या उत्पाद का नाम बदलें"
+
+msgid "SKU already Exist"
+msgstr "SKU पहले से मौजूद है"
+
+msgid "Product added successfully"
+msgstr "उत्पाद सफलतापूर्वक जोड़ा गया"
+
+msgid "data missing"
+msgstr "डेटा गायब"
+
+msgid "Please provide a SKU or change the name of product"
+msgstr "कृपया एक SKU प्रदान करें या उत्पाद का नाम बदलें"
+
+msgid "SKU already exist"
+msgstr "SKU पहले से मौजूद है"
+
+msgid "Data missing"
+msgstr "डेटा अनुपलब्ध"
+
+msgid "Variation SKU already exist"
+msgstr "विविधता SKU पहले से मौजूद है"
+
+msgid "Please provide valid variation SKU or change name of product"
+msgstr "कृपया मान्य विविधता प्रदान करें SKU या उत्पाद का नाम बदलें"
+
+msgid "Stock not updated"
+msgstr "स्टॉक अपडेट नहीं किया गया"
+
+msgid "Manage stock is not enabled"
+msgstr "स्टॉक प्रबंधित करना सक्षम नहीं है"
+
+msgid "Purchased failed"
+msgstr "खरीदा गया विफल"
+
+msgid "No item found"
+msgstr "कोई वस्तु नहीं मिली"
+
+msgid "No data found with request param"
+msgstr "अनुरोध परम के साथ कोई डेटा नहीं मिला"
+
+msgid "Unknown"
+msgstr "अनजान"
+
+msgid "Invalid login information"
+msgstr "अमान्य लॉगिन जानकारी"
+
+msgid "Username is required"
+msgstr "उपयोगकर्ता नाम आवश्यक है"
+
+msgid "You don't have permission to access this link"
+msgstr "आपको इस लिंक तक पहुंचने की अनुमति नहीं है"
+
+msgid "No logged in user"
+msgstr "कोई लॉग इन उपयोगकर्ता नहीं"
+
+msgid "Password changed successfully."
+msgstr "पासवर्ड सफलतापूर्वक बदला गया।"
+
+msgid "Please login again,no user found logged in."
+msgstr "कृपया फिर से लॉगिन करें, कोई उपयोगकर्ता लॉग इन नहीं मिला।"
+
+msgid "Invalid Request"
+msgstr "अमान्य अनुरोध"
+
+msgid "Password can not be set as empty"
+msgstr "पासवर्ड को खाली के रूप में सेट नहीं किया जा सकता"
+
+msgid "You don't have permission to view user of this outlet"
+msgstr "आपको इस आउटलेट के उपयोगकर्ता को देखने की अनुमति नहीं है"
+
+msgid "Request outlet or counter empty"
+msgstr "अनुरोध आउटलेट या काउंटर खाली"
+
+msgid "Successfully closed"
+msgstr "सफलतापूर्वक बंद किया गया"
+
+msgid "Drawer close failed"
+msgstr "दराज बंद विफल"
+
+msgid "Drawer list not found"
+msgstr "दराज सूची नहीं मिली"
+
+msgid "You do not have permission to do this"
+msgstr "तुमको यह करने की इजाजत नहीं है"
+
+msgid "Not updated"
+msgstr "अद्यतन नहीं हुआ"
+
+msgid "Form is not valid"
+msgstr "फॉर्म मान्य नहीं है"
+
+msgid "Vendor deleted successfully"
+msgstr "विक्रेता को सफलतापूर्वक हटाया गया"
+
+msgid "Vendor delete failed"
+msgstr "विक्रेता हटाना विफल"
+
+msgid "No vendor found with this param"
+msgstr "इस परम के साथ कोई विक्रेता नहीं मिला"
+
+msgid "Missing dependency"
+msgstr "लापता निर्भरता"
+
+msgid "It requires woocommerce, please install woocommerce first"
+msgstr ""
+"इसके लिए woocommerce की आवश्यकता है, कृपया पहले woocommerce स्थापित करें"
+
+msgid "Counter Name"
+msgstr "काउंटर का नाम"
+
+msgid "Counter No"
+msgstr "काउंटर नंबर"
+
+msgid "Name"
+msgstr "नाम"
+
+msgid "Email"
+msgstr "ईमेल"
+
+msgid "Contact No"
+msgstr "संपर्क नंबर"
+
+msgid "Street"
+msgstr "सड़क"
+
+msgid "City"
+msgstr "शहर"
+
+msgid "State"
+msgstr "राज्य"
+
+msgid "State/District"
+msgstr "राज्य/जिला"
+
+msgid "Zip Code"
+msgstr "पिन कोड"
+
+msgid "Select Country"
+msgstr "देश चुनें"
+
+msgid "Time Zone"
+msgstr "समय क्षेत्र"
+
+msgid "Allowed Ip"
+msgstr "अनुमत आईपी"
+
+msgid "Status"
+msgstr "दर्जा"
+
+msgid "Add Outlet"
+msgstr "आउटलेट जोड़ें"
+
+msgid "Edit Outlet"
+msgstr "आउटलेट संपादित करें"
+
+msgid "Edit"
+msgstr "संपादन करना"
+
+msgid "Add Counter"
+msgstr "काउंटर जोड़ें"
+
+msgid "Edit Counter"
+msgstr "काउंटर संपादित करें"
+
+msgid "Delete"
+msgstr "मिटाना"
+
+msgid "Cancel"
+msgstr "रद्द करना"
+
+msgid "Close"
+msgstr "बंद करना"
+
+msgid "Outlet Details"
+msgstr "आउटलेट विवरण"
+
+msgid "Outlet Name"
+msgstr "आउटलेट का नाम"
+
+msgid "Address"
+msgstr "पता"
+
+msgid "Add"
+msgstr "जोड़ें"
+
+msgid "Update"
+msgstr "अद्यतन"
+
+msgid "Sidebar"
+msgstr "साइडबार"
+
+msgid "Dashboard"
+msgstr "डैशबोर्ड"
+
+msgid "Orders"
+msgstr "आदेश"
+
+msgid "Outlet"
+msgstr "दुकान"
+
+msgid "Loading Outlet"
+msgstr "लोड हो रहा है आउटलेट"
+
+msgid "Make Main"
+msgstr "मुख्य बनाओ"
+
+msgid "Add Role"
+msgstr "भूमिका जोड़ें"
+
+msgid "Loading Roles"
+msgstr "भूमिकाएँ लोड हो रही हैं"
+
+msgid "Role Description"
+msgstr "भूमिका विवरण"
+
+msgid "Role Name"
+msgstr "भूमिका का नाम"
+
+msgid "Edit Role"
+msgstr "भूमिका संपादित करें"
+
+msgid "Roles"
+msgstr "भूमिकाएँ"
+
+msgid "Role List"
+msgstr "भूमिका सूची"
+
+msgid "Role Access"
+msgstr "रोल एक्सेस"
+
+msgid "Loading Role Access"
+msgstr "रोल एक्सेस लोड हो रहा है"
+
+msgid "Action"
+msgstr "गतिविधि"
+
+msgid "Main Branch"
+msgstr "मुख्य शाखा"
+
+msgid "Counters"
+msgstr "काउंटर"
+
+msgid "Counter"
+msgstr "विरोध करना"
+
+msgid "Settings"
+msgstr "समायोजन"
+
+msgid "Customers"
+msgstr "ग्राहकों"
+
+msgid "Home"
+msgstr "घर"
+
+msgid "Yes"
+msgstr "हाँ"
+
+msgid "No"
+msgstr "नहीं"
+
+msgid "Country"
+msgstr "देश"
+
+msgid "Basic Settings"
+msgstr "मूल सेटिंग्स"
+
+msgid "Print Settings"
+msgstr "प्रिंट सेटिंग्स"
+
+msgid "License Info"
+msgstr "लाइसेंस जानकारी"
+
+msgid "Save"
+msgstr "बचाना"
+
+msgid "Help"
+msgstr "मदद करना"
+
+msgid "View POS"
+msgstr "पीओएस देखें"
+
+msgid "Viewing %{ startRecord } to %{ endRecord } of %{ totalRecord } records"
+msgstr ""
+"%{startRecord } से %{endRecord } %{ TotalRecord } रिकॉर्ड देखे जा रहे हैं"
+
+msgid "%{ row } rows"
+msgstr "%{ row } पंक्तियाँ"
+
+msgid "No record found"
+msgstr "कोई रिकॉर्ड नहीं मिला"
+
+msgid "Version"
+msgstr "संस्करण"
+
+msgid "Barcode Field"
+msgstr "बारकोड फील्ड"
+
+msgid "Page Settings"
+msgstr "पेज सेटिंग्स"
+
+msgid "Header Panel"
+msgstr "हैडर पैनल"
+
+msgid "Product ID"
+msgstr "उत्पाद आयडी"
+
+msgid "SKU"
+msgstr "एसकेयू"
+
+msgid "Custom Field"
+msgstr "अनुकूलित field"
+
+msgid "Loading Settings"
+msgstr "लोड हो रहा है सेटिंग्स"
+
+msgid "Select"
+msgstr "चुनना"
+
+msgid "%{fld_name} is required"
+msgstr "%{fld_name} आवश्यक है"
+
+msgid "Are you sure to delete this outlet: %{outlet}?"
+msgstr "क्या आप वाकई इस आउटलेट को हटाना चाहते हैं: %{outlet}?"
+
+msgid "Are you sure to delete this counter: %{counter}?"
+msgstr "क्या आप वाकई इस काउंटर को हटाना चाहते हैं: %{counter}?"
+
+msgid "Are you sure to remove access from %{role}?"
+msgstr "क्या आप वाकई %{role} से एक्सेस निकालना चाहते हैं?"
+
+msgid "Are you sure to give access to %{role}?"
+msgstr "क्या आप वाकई %{role} तक पहुंच प्रदान करना चाहते हैं?"
+
+msgid "Are you sure to %{status}?"
+msgstr "क्या आप %{status} के बारे में सुनिश्चित हैं?"
+
+msgid "Active"
+msgstr "सक्रिय"
+
+msgid "Inactive"
+msgstr "निष्क्रिय"
+
+msgid "Page Width"
+msgstr "पृष्ठ की चौड़ाई"
+
+msgid "Font Size"
+msgstr "फ़ॉन्ट आकार"
+
+msgid "Show Logo"
+msgstr "लोगो दिखाओ"
+
+msgid "mm"
+msgstr "मिमी"
+
+msgid "px"
+msgstr "पिक्सल"
+
+msgid "Recommend logo height %{logoHeight}."
+msgstr "लोगो की ऊंचाई %{logoHeight} सुझाएं।"
+
+msgid "Best size is %{logoWidth} in width and %{logoHeight} in height."
+msgstr "सबसे अच्छा आकार चौड़ाई में %{logoWidth} और ऊंचाई में %{logoHeight} है।"
+
+msgid "Show Header"
+msgstr "हेडर दिखाओ"
+
+msgid "Show Vat Reg no"
+msgstr "वैट रेग नंबर दिखाएँ"
+
+msgid "Vat/Tax No Label"
+msgstr "वैट/कर नहीं लेबल"
+
+msgid "Vat/Tax No"
+msgstr "वैट/कर संख्या"
+
+msgid "Outlet Info"
+msgstr "आउटलेट जानकारी"
+
+msgid "Show outlet info"
+msgstr "आउटलेट की जानकारी दिखाएं"
+
+msgid "Outlet Email"
+msgstr "आउटलेट ईमेल"
+
+msgid "Outlet Phone"
+msgstr "आउटलेट फोन"
+
+msgid "Outlet Address"
+msgstr "आउटलेट का पता"
+
+msgid "Counter Info"
+msgstr "काउंटर जानकारी"
+
+msgid "Show Counter info"
+msgstr "काउंटर की जानकारी दिखाएं"
+
+msgid "Counter Operator Label"
+msgstr "काउंटर ऑपरेटर लेबल"
+
+msgid "Show Counter No"
+msgstr "काउंटर नंबर दिखाएँ"
+
+msgid "Counter No Label"
+msgstr "काउंटर नो लेबल"
+
+msgid "License Status"
+msgstr "लाइसेंस की स्थिति"
+
+msgid "License Type"
+msgstr "लाइसेंस के प्रकार"
+
+msgid "Support Expired on"
+msgstr "समर्थन की समय सीमा समाप्त"
+
+msgid "License Expired on"
+msgstr "लाइसेंस की समय सीमा समाप्त"
+
+msgid "Your License Key"
+msgstr "आपकी लाइसेंस कुंजी"
+
+msgid "Deactivate License"
+msgstr "लाइसेंस निष्क्रिय करें"
+
+msgid "Valid"
+msgstr "वैध"
+
+msgid "No expiry"
+msgstr "कोई समाप्ति नहीं"
+
+msgid "Unlimited"
+msgstr "असीमित"
+
+msgid "Show order no"
+msgstr "आदेश संख्या दिखाएँ"
+
+msgid "Order no label"
+msgstr "ऑर्डर नो लेबल"
+
+msgid "Customer Info"
+msgstr "ग्राहक की जानकारी"
+
+msgid "Show customer info"
+msgstr "ग्राहक जानकारी दिखाएं"
+
+msgid "Customer Info Label"
+msgstr "ग्राहक जानकारी लेबल"
+
+msgid "Customer Name"
+msgstr "ग्राहक का नाम"
+
+msgid "Customer Id"
+msgstr "ग्राहक आईडी, ग्राहक पहचान"
+
+msgid "Customer Id Label"
+msgstr "ग्राहक आईडी लेबल"
+
+msgid "Customer Phone"
+msgstr "ग्राहक फोन"
+
+msgid "Customer Phone Label"
+msgstr "ग्राहक फोन लेबल"
+
+msgid "Customer Address"
+msgstr "ग्राहक का पता"
+
+msgid "Item Details"
+msgstr "आइटम विवरण"
+
+msgid "Show Item Serial"
+msgstr "शो आइटम सीरियल"
+
+msgid "Show Unit Cost"
+msgstr "यूनिट लागत दिखाएं"
+
+msgid "Show Discount Row"
+msgstr "डिस्काउंट पंक्ति दिखाएं"
+
+msgid "Show Tax Row"
+msgstr "टैक्स पंक्ति दिखाएँ"
+
+msgid "Show Fee Row"
+msgstr "शुल्क पंक्ति दिखाएं"
+
+msgid "Show Payment Method"
+msgstr "भुगतान विधि दिखाएं"
+
+msgid "Footer Panel"
+msgstr "पाद पैनल"
+
+msgid "Show Footer"
+msgstr "फ़ुटर दिखाएँ"
+
+msgid "Date"
+msgstr "दिनांक"
+
+msgid "SL"
+msgstr "क्र"
+
+msgid "Item"
+msgstr "वस्तु"
+
+msgid "Qty:"
+msgstr "मात्रा:"
+
+msgid "Total"
+msgstr "कुल"
+
+msgid "Tax"
+msgstr "कर"
+
+msgid "Order Total"
+msgstr "कुल आर्डर"
+
+msgid "Given Amount"
+msgstr "दी गई राशि"
+
+msgid "Return"
+msgstr "वापस करना"
+
+msgid "Payment Method"
+msgstr "भुगतान का तरीका"
+
+msgid "Order No"
+msgstr "आदेश संख्या"
+
+msgid "Processed By"
+msgstr "द्वारा संसाधित"
+
+msgid "Basic Help"
+msgstr "मूल सहायता"
+
+msgid "Videos"
+msgstr "वीडियो"
+
+msgid "About VitePos"
+msgstr "VitePos . के बारे में"
+
+msgid "Contact Author"
+msgstr "संपर्क लेखक"
+
+msgid "Offline Order"
+msgstr "ऑफलाइन ऑर्डर"
+
+msgid "Enable"
+msgstr "सक्षम करना"
+
+msgid "Disable"
+msgstr "बंद करना"
+
+msgid "POS Login Type"
+msgstr "पीओएस लॉगिन प्रकार"
+
+msgid "Vitepos Login"
+msgstr "विटेपोस लॉगिन"
+
+msgid "WordPress Login"
+msgstr "वर्डप्रेस लॉगिन"
+
+msgid "WordPress Login URL"
+msgstr "वर्डप्रेस लॉगिन यूआरएल"
+
+msgid "POS Color"
+msgstr "पीओएस रंग"
+
+msgid "POS Link Type"
+msgstr "पीओएस लिंक प्रकार"
+
+msgid "Default"
+msgstr "चूक"
+
+msgid "Page"
+msgstr "पृष्ठ"
+
+msgid "POS Link"
+msgstr "पीओएस लिंक"
+
+msgid "POS Page"
+msgstr "पीओएस पेज"
+
+msgid "Video Tutorial"
+msgstr "वीडियो ट्यूटोरियल"
+
+msgid "More Details"
+msgstr "अधिक जानकारी"
+
+msgid "Search"
+msgstr "खोज"
+
+msgid "Search/Choose Page"
+msgstr "पेज खोजें/चुनें"
+
+msgid "Keep blank to use default WordPress login."
+msgstr "डिफ़ॉल्ट वर्डप्रेस लॉगिन का उपयोग करने के लिए खाली रखें।"
+
+msgid "To watch our all video tutorial click on the button"
+msgstr "हमारे सभी वीडियो ट्यूटोरियल देखने के लिए बटन पर क्लिक करें"
+
+msgid ""
+"In case of any problem, get in touch with the Vitepos team. We always "
+"support our clients until their satisfaction comes. And that is our "
+"responsibility and duty."
+msgstr ""
+"किसी भी समस्या के मामले में, विटेपो टीम से संपर्क करें। हम हमेशा अपने "
+"ग्राहकों का समर्थन करते हैं जब तक कि उनकी संतुष्टि नहीं आती। और यह हमारी "
+"जिम्मेदारी और कर्तव्य है।"
+
+msgid "Contact Support Team"
+msgstr "सहायता टीम से संपर्क करें"
+
+msgid ""
+"To delete role, you need to move current users of this roles to another role."
+" Please choose move to role below"
+msgstr ""
+"भूमिका को हटाने के लिए, आपको इस भूमिका के वर्तमान उपयोगकर्ताओं को दूसरी "
+"भूमिका में ले जाना होगा। कृपया नीचे दी गई भूमिका में जाने का चयन करें"
+
+msgid "User Move to"
+msgstr "उपयोगकर्ता यहां ले जाएं"
+
+msgid "Delete Role"
+msgstr "भूमिका हटाएं"
+
+msgid "Delete Role Details"
+msgstr "भूमिका विवरण हटाएं"
+
+msgid "Updating Role Details"
+msgstr "भूमिका विवरण अपडेट करना"
+
+msgid "Adding Role"
+msgstr "भूमिका जोड़ना"
+
+msgid "Move to Role "
+msgstr "भूमिका में ले जाएँ"
+
+msgid "Loading Outlet Details"
+msgstr "आउटलेट विवरण लोड हो रहा है"
+
+msgid "Reset"
+msgstr "रीसेट"
+
+msgid "Are you sure to make this main branch?"
+msgstr "क्या आप वाकई इस मुख्य शाखा को बनाना चाहते हैं?"
+
+msgid "Search/Select Country"
+msgstr "देश खोजें/चुनें"
+
+msgid "Search/Choose Time Zone"
+msgstr "समय क्षेत्र खोजें/चुनें"
+
+msgid "Invoice Print Settings"
+msgstr "चालान प्रिंट सेटिंग्स"
+
+msgid "POS Logo"
+msgstr "पीओएस लोगो"
+
+msgid "Logo"
+msgstr "प्रतीक चिन्ह"
+
+msgid "Favicon"
+msgstr "फ़ेविकॉन"
+
+msgid "Click the box to select or remove %{fileName}."
+msgstr "%{fileName} को चुनने या हटाने के लिए बॉक्स पर क्लिक करें।"
+
+msgid "Best size is 166px in width and 60px in height."
+msgstr "सबसे अच्छा आकार 166px चौड़ाई और 60px ऊंचाई है।"
+
+msgid "Build :"
+msgstr "बनाना :"
+
+msgid "Visit"
+msgstr "मुलाकात"
+
+msgid "for more details please visit"
+msgstr "अधिक जानकारी के लिए कृपया देखें"
+
+msgid "Click here"
+msgstr "यहां क्लिक करें"
+
+msgid "To get a complete idea of what your agent needs to do to run an outlet "
+msgstr ""
+"आउटलेट चलाने के लिए आपके एजेंट को क्या करने की आवश्यकता है, इसकी पूरी "
+"जानकारी प्राप्त करने के लिए"
+
+msgid ""
+"On the other hand, on the client side, you can set the outlet agents you "
+"want, according to their role."
+msgstr ""
+"दूसरी ओर, ग्राहक पक्ष पर, आप अपने इच्छित आउटलेट एजेंटों को उनकी भूमिका के "
+"अनुसार सेट कर सकते हैं।"
+
+msgid "have two sides. One admin panel and another is client panel."
+msgstr "दो पक्ष हैं। एक व्यवस्थापक पैनल और दूसरा क्लाइंट पैनल है।"
+
+msgid ""
+"The admin can add some settings in the admin panel, such as: Outlet Create, "
+"Counter Create, Roll Access Management, Custom Invoice, Barcode Settings and "
+"License Panel."
+msgstr ""
+"व्यवस्थापक व्यवस्थापक पैनल में कुछ सेटिंग्स जोड़ सकता है, जैसे: आउटलेट बनाएं,"
+" काउंटर बनाएं, रोल एक्सेस प्रबंधन, कस्टम चालान, बारकोड सेटिंग्स और लाइसेंस "
+"पैनल।"
+
+msgid "Welcome to"
+msgstr "आपका स्वागत है"
+
+msgid ""
+"Warning, offline orders are stored in the database of browser (Chrome, "
+"Firefox, Opera, etc.) . And as soon as the app comes online, it syncs with "
+"the main server. If someone deletes the database  of browser before syncing, "
+"the order will no longer sync. In this case, the order information will be "
+"deleted forever."
+msgstr ""
+"चेतावनी, ऑफ़लाइन आदेश ब्राउज़र (क्रोम, फ़ायरफ़ॉक्स, ओपेरा, आदि) के डेटाबेस "
+"में संग्रहीत किए जाते हैं। और जैसे ही ऐप ऑनलाइन आता है, यह मुख्य सर्वर के "
+"साथ सिंक हो जाता है। अगर कोई सिंक करने से पहले ब्राउज़र के डेटाबेस को हटा "
+"देता है, तो ऑर्डर अब सिंक नहीं होगा। इस मामले में, आदेश की जानकारी हमेशा के "
+"लिए हटा दी जाएगी।"
+
+msgid "Empowering Your WooCommerce Store with Vitepos"
+msgstr "Vitepos के साथ अपने WooCommerce स्टोर को सशक्त बनाना"
+
+msgid "Total Income"
+msgstr "कुल आय"
+
+msgid "Total Orders"
+msgstr "कुल आदेश"
+
+msgid "Total Outlets"
+msgstr "कुल आउटलेट"
+
+msgid "Total Amount"
+msgstr "कुल राशि"
+
+msgid "Based on outlet order(s)"
+msgstr "आउटलेट ऑर्डर के आधार पर"
+
+msgid "Custom Barcode"
+msgstr "कस्टम बारकोड"
+
+msgid "Enable reCaptcha V3"
+msgstr "रीकैप्चा V3 सक्षम करें"
+
+msgid "Site Key"
+msgstr "कार्यस्थल की कुंजी"
+
+msgid "Secret Key"
+msgstr "गुप्त कुंजी"
+
+msgid "Can create & manage unlimited outlets"
+msgstr "असीमित आउटलेट बना और प्रबंधित कर सकते हैं"
+
+msgid "Can create & manage unlimited counter for each outlet"
+msgstr "प्रत्येक आउटलेट के लिए असीमित काउंटर बना और प्रबंधित कर सकते हैं"
+
+msgid "Split payment support in pro version"
+msgstr "प्रो संस्करण में विभाजित भुगतान समर्थन"
+
+msgid "Offline sale allowed in pro version"
+msgstr "प्रो संस्करण में ऑफ़लाइन बिक्री की अनुमति है"
+
+msgid "Hold cart applicable in pro version"
+msgstr "प्रो संस्करण में लागू होल्ड कार्ट"
+
+msgid "Customization of color support in pro version"
+msgstr "प्रो संस्करण में रंग समर्थन का अनुकूलन"
+
+msgid "Easy product manage (add,update,delete) based on role"
+msgstr "भूमिका के आधार पर आसान उत्पाद प्रबंधन (जोड़ें, अपडेट करें, हटाएं)"
+
+msgid "Premium Support"
+msgstr "प्रीमियम समर्थन"
+
+msgid "And More.."
+msgstr "और अधिक.."
+
+msgid "Pro version required"
+msgstr "प्रो संस्करण की आवश्यकता"
+
+msgid "Go pro"
+msgstr "पेशेवर बनो"
+
+msgid "For add more than two counter it requires pro version."
+msgstr "दो से अधिक काउंटर जोड़ने के लिए इसे प्रो संस्करण की आवश्यकता होती है।"
+
+msgid "For multiple outlet you need to active pro version."
+msgstr "एकाधिक आउटलेट के लिए आपको प्रो संस्करण सक्रिय करने की आवश्यकता है।"
+
+msgid "Offline feature support in pro version only."
+msgstr "केवल प्रो संस्करण में ऑफ़लाइन सुविधा का समर्थन।"
+
+msgid "To change color you need pro version"
+msgstr "रंग बदलने के लिए आपको प्रो संस्करण की आवश्यकता है"
+
+msgid "Warning, all role access will be deleted for this role."
+msgstr "चेतावनी, इस भूमिका के लिए सभी भूमिका एक्सेस हटा दी जाएंगी।"
+
+msgid "Reset Role"
+msgstr "भूमिका रीसेट करें"
+
+msgid "Select a Role to Reset"
+msgstr "रीसेट करने के लिए एक भूमिका का चयन करें"
+
+msgid "Copy Role Permission"
+msgstr "कॉपी रोल अनुमति"
+
+msgid "Copy role"
+msgstr "कॉपी रोल"
+
+msgid "Copy from"
+msgstr "से प्रतिलिपि बनाएँ"
+
+msgid "Copy to"
+msgstr "को कॉपी"
+
+msgid "The role user can create any outlets user if get this access"
+msgstr ""
+"भूमिका उपयोगकर्ता किसी भी आउटलेट उपयोगकर्ता को बना सकता है यदि यह पहुंच "
+"प्राप्त करता है"
+
+msgid "The role user can change any users password"
+msgstr "भूमिका उपयोगकर्ता किसी भी उपयोगकर्ता का पासवर्ड बदल सकता है"
+
+msgid "This roles user can change their password"
+msgstr "यह भूमिका उपयोगकर्ता अपना पासवर्ड बदल सकता है"
+
+msgid "Administrator"
+msgstr "प्रशासक"
+
+msgid "Outlet Manager"
+msgstr "दुकान प्रबंधक"
+
+msgid "Cashier"
+msgstr "केशियर"
+
+msgid "Built-in"
+msgstr "में निर्मित"
+
+msgid "outlet"
+msgstr "दुकान"
+
+msgid "No %{type} found"
+msgstr "कोई %{type} नहीं मिला"
+
+msgid "Outlet User List"
+msgstr "आउटलेट उपयोगकर्ता सूची"
+
+msgid "Add to this outlet"
+msgstr "इस आउटलेट में जोड़ें"
+
+msgid "Users"
+msgstr "उपयोगकर्ताओं"
+
+msgid "Getting user list"
+msgstr "उपयोगकर्ता सूची प्राप्त करना"
+
+msgid "Remove"
+msgstr "हटाना"
+
+msgid "Set the duration in days for new badge on product"
+msgstr "उत्पाद पर नए बैज के लिए दिनों की अवधि निर्धारित करें"
+
+msgid "days"
+msgstr "दिन"
+
+msgid "New Product Badge Duration"
+msgstr "नया उत्पाद बैज अवधि"
+
+msgid ""
+"The new badge will display up to %{dayset} days from product creation date."
+msgstr "नया बैज उत्पाद निर्माण तिथि से %{dayset} दिनों तक प्रदर्शित होगा।"
+
+msgid "Phone"
+msgstr "फ़ोन"
+
+msgid "Cash"
+msgstr "नकद"
+
+msgid "Loading Data"
+msgstr "डेटा लोड हो रहा है"
+
+msgid "Select/Search Role"
+msgstr "भूमिका चुनें/खोजें"
+
+msgid "Select/Search role copy from"
+msgstr "यहां से भूमिका कॉपी चुनें/खोजें"
+
+msgid "Select/Search role copy to"
+msgstr "इसमें भूमिका कॉपी चुनें/खोजें"
+
+msgid "POS Products Per Row"
+msgstr "पीओएस उत्पाद प्रति पंक्ति"
+
+msgid "Default Customer (Optional)"
+msgstr "डिफ़ॉल्ट ग्राहक (वैकल्पिक)"
+
+msgid "Search/Choose customer"
+msgstr "ग्राहक खोजें/चुनें"
+
+msgid ""
+"You can select the default customer for order processing. If not selected "
+"then the order will be processed as a guest user. Note that, if the customer "
+"is selected from the POS, that customer will remain in the selected state."
+msgstr ""
+"आप ऑर्डर प्रोसेसिंग के लिए डिफ़ॉल्ट ग्राहक का चयन कर सकते हैं। यदि चयनित "
+"नहीं है तो आदेश को अतिथि उपयोगकर्ता के रूप में संसाधित किया जाएगा। ध्यान दें,"
+" यदि ग्राहक को पीओएस से चुना जाता है, तो वह ग्राहक चयनित स्थिति में रहेगा।"
+
+msgid "%{col} Products Per Row"
+msgstr "%{col} उत्पाद प्रति पंक्ति"
+
+msgid "Max Discount"
+msgstr "अधिकतम छूट"
+
+msgid "Refresh App"
+msgstr "रिफ्रेश ऐप"
+
+msgid "POS Link:"
+msgstr "पीओएस लिंक:"
+
+msgid "Generated by"
+msgstr "द्वारा उत्पन्न"
+
+msgid ""
+"Warning, vitepos lock screen might not work properly if 2FA is enabled on "
+"login."
+msgstr ""
+"चेतावनी, अगर लॉगिन पर 2FA सक्षम है, तो हो सकता है कि विटपोस लॉक स्क्रीन ठीक "
+"से काम न करे।"
+
+msgid "Branding"
+msgstr "ब्रांडिंग"
+
+msgid "Download PDF"
+msgstr "डाउनलोड पीडीऍफ़"
+
+msgid "Loaded"
+msgstr "लदा हुआ"
+
+msgid "Category Loading"
+msgstr "श्रेणी लोड हो रहा है"
+
+msgid "Product Loading"
+msgstr "उत्पाद लोड हो रहा है"
+
+msgid "Scan"
+msgstr "स्कैन"
+
+msgid "Product"
+msgstr "उत्पाद"
+
+msgid "Search Product"
+msgstr "उत्पाद खोजें"
+
+msgid "Are you sure clear cart?"
+msgstr "क्या आप निश्चित रूप से स्पष्ट कार्ट हैं?"
+
+msgid "Are you sure?"
+msgstr "क्या आपको यकीन है?"
+
+msgid "Are you sure to remove item from cart?"
+msgstr "क्या आप वाकई कार्ट से आइटम निकालना चाहते हैं?"
+
+msgid "Checkout"
+msgstr "चेक आउट"
+
+msgid "Watch tutorial"
+msgstr "शैक्षणिक - कार्यक्रम देखें"
+
+msgid "Pay"
+msgstr "भुगतान करना"
+
+msgid "Add Discount"
+msgstr "छूट जोड़ें"
+
+msgid "Add Fee"
+msgstr "शुल्क जोड़ें"
+
+msgid "Add Note"
+msgstr "नोट जोड़े"
+
+msgid "Note"
+msgstr "टिप्पणी"
+
+msgid "Note:"
+msgstr "टिप्पणी:"
+
+msgid "Hold"
+msgstr "पकड़"
+
+msgid "Calculator"
+msgstr "कैलकुलेटर"
+
+msgid "Go Back"
+msgstr "वापस जाओ"
+
+msgid "Empty"
+msgstr "खाली"
+
+msgid "Clear"
+msgstr "साफ़"
+
+msgid "Order # %{ordNumber}"
+msgstr "आदेश # %{ordNumber}"
+
+msgid "Enter amount"
+msgstr "राशि डालें"
+
+msgid "Remove from cart?"
+msgstr "कार्ट से निकालें?"
+
+msgid "Note :"
+msgstr "टिप्पणी :"
+
+msgid "Pay Now"
+msgstr "अब भुगतान करें"
+
+msgid "All Category"
+msgstr "सभी श्रेणी"
+
+msgid "Select Variations"
+msgstr "विविधताओं का चयन करें"
+
+msgid "Scan barcode..."
+msgstr "बारकोड स्कैन करें..."
+
+msgid "Search products..."
+msgstr "उत्पादों को खोजना..."
+
+msgid "Add Product"
+msgstr "उत्पाद जोड़ें"
+
+msgid "Add Variations"
+msgstr "बदलाव जोड़ें"
+
+msgid "Add Attributes"
+msgstr "गुण जोड़ें"
+
+msgid "Item Name"
+msgstr "वस्तु का नाम"
+
+msgid "Select Category"
+msgstr "श्रेणी चुनना"
+
+msgid "Up Sells"
+msgstr "ऊपर बिकता है"
+
+msgid "Product Unit"
+msgstr "उत्पाद इकाई"
+
+msgid "Cross Sells"
+msgstr "क्रॉस सेल्स"
+
+msgid "Purchase Price"
+msgstr "खरीद मूल्य"
+
+msgid "Regular Price"
+msgstr "नियमित रूप से मूल्य"
+
+msgid "Sale Price"
+msgstr "विक्रय कीमत"
+
+msgid "Manage Stock"
+msgstr "स्टॉक प्रबंधित करें"
+
+msgid "Manage Product"
+msgstr "उत्पाद प्रबंधित करें"
+
+msgid "Stock Quantity"
+msgstr "शेयर मात्रा"
+
+msgid "Stock Alert"
+msgstr "स्टॉक अलर्ट"
+
+msgid "Description"
+msgstr "विवरण"
+
+msgid "Feature Image"
+msgstr "फ़ीचर छवि"
+
+msgid "Image"
+msgstr "छवि"
+
+msgid "Bar Code"
+msgstr "बार कोड"
+
+msgid "Slug"
+msgstr "काउंटर"
+
+msgid "Select Options"
+msgstr "विकल्प चुनो"
+
+msgid "Add Options"
+msgstr "विकल्प जोड़ें"
+
+msgid "Options"
+msgstr "विकल्प"
+
+msgid "Add Variation"
+msgstr "विविधता जोड़ें"
+
+msgid "Use For Variation"
+msgstr "विविधता के लिए उपयोग करें"
+
+msgid "Add to cart"
+msgstr "कार्ट में जोड़ें"
+
+msgid "Manage Customer"
+msgstr "ग्राहक प्रबंधित करें"
+
+msgid "Add Customer"
+msgstr "ग्राहक जोड़ें"
+
+msgid "Edit Customer"
+msgstr "ग्राहक संपादित करें"
+
+msgid "First Name"
+msgstr "पहला नाम"
+
+msgid "Last Name"
+msgstr "उपनाम"
+
+msgid "Username"
+msgstr "उपयोगकर्ता नाम"
+
+msgid "Mobile"
+msgstr "गतिमान"
+
+msgid "Street Address"
+msgstr "गली का पता"
+
+msgid "Post Code"
+msgstr "पोस्ट कोड"
+
+msgid "Create Purchase"
+msgstr "खरीदारी बनाएं"
+
+msgid "Select Supplier"
+msgstr "आपूर्तिकर्ता का चयन करें"
+
+msgid "Select Outlet"
+msgstr "आउटलेट का चयन करें"
+
+msgid "Select/Search Product"
+msgstr "उत्पाद चुनें/खोजें"
+
+msgid "Orders Item*"
+msgstr "ऑर्डर आइटम*"
+
+msgid "Net Unit Cost"
+msgstr "शुद्ध इकाई लागत"
+
+msgid "Stock"
+msgstr "भंडार"
+
+msgid "Quantity"
+msgstr "मात्रा"
+
+msgid "Order Tax"
+msgstr "आदेश कर"
+
+msgid "Shipping Cost"
+msgstr "शिपिंग लागत"
+
+msgid "Shipping"
+msgstr "शिपिंग"
+
+msgid "Grand Total"
+msgstr "कुल योग"
+
+msgid "Create"
+msgstr "सृजन करना"
+
+msgid "Manage Vendor"
+msgstr "विक्रेता को प्रबंधित करें"
+
+msgid "Vendor Description"
+msgstr "विक्रेता विवरण"
+
+msgid "Add Vendor"
+msgstr "विक्रेता जोड़ें"
+
+msgid "Product List"
+msgstr "उत्पादों की सूची"
+
+msgid "Title"
+msgstr "शीर्षक"
+
+msgid "Price"
+msgstr "कीमत"
+
+msgid "Category"
+msgstr "श्रेणी"
+
+msgid "Customer List"
+msgstr "ग्राहकू सूची"
+
+msgid "Manage Purchases"
+msgstr "खरीदारी प्रबंधित करें"
+
+msgid "Purchase List"
+msgstr "खरीद सूची"
+
+msgid "Add Purchase"
+msgstr "खरीदारी जोड़ें"
+
+msgid "Vendor"
+msgstr "वेंडर"
+
+msgid "Total Cost"
+msgstr "कुल लागत"
+
+msgid "Supplier List"
+msgstr "आपूर्तिकर्ता सूची"
+
+msgid "Add Supplier"
+msgstr "आपूर्तिकर्ता जोड़ें"
+
+msgid "Products"
+msgstr "उत्पादों"
+
+msgid "Purchase"
+msgstr "खरीदना"
+
+msgid "Shipment"
+msgstr "लदान"
+
+msgid "Swipe Machine"
+msgstr "स्वाइप मशीन"
+
+msgid "Others"
+msgstr "अन्य"
+
+msgid "Loading.."
+msgstr "लोड हो रहा है.."
+
+msgid "No Customer found"
+msgstr "कोई ग्राहक नहीं मिला"
+
+msgid "All Categories"
+msgstr "सब वर्ग"
+
+msgid "Add/Search Customer.."
+msgstr "ग्राहक जोड़ें/खोजें.."
+
+msgid "Add payment note"
+msgstr "भुगतान नोट जोड़ें"
+
+msgid "Last Four Digit of card"
+msgstr "कार्ड के अंतिम चार अंक"
+
+msgid "Credentials not matched ! !"
+msgstr "क्रेडेंशियल मेल नहीं खाते! !"
+
+msgid "Sign In"
+msgstr "साइन इन करें"
+
+msgid "Username or Email address"
+msgstr "उपयोगकर्ता का नाम या ईमेल पता"
+
+msgid "Password"
+msgstr "पासवर्ड"
+
+msgid "Select Role"
+msgstr "भूमिका चुनें"
+
+msgid "Role"
+msgstr "भूमिका"
+
+msgid ""
+"I agree to delete the %{rolename} and move all users of %{rolename} to the "
+"selected role"
+msgstr ""
+"मैं %{rolename} को हटाने और %{rolename} के सभी उपयोगकर्ताओं को चयनित भूमिका "
+"में ले जाने के लिए सहमत हूं"
+
+msgid "Designation"
+msgstr "पद"
+
+msgid "Add User"
+msgstr "उपयोगकर्ता जोड़ें"
+
+msgid "Edit User"
+msgstr "यूजर को संपादित करो"
+
+msgid "Manage User"
+msgstr "उपयोगकर्ता प्रबंधित करें"
+
+msgid "User List"
+msgstr "उपयोगकर्ता सूची"
+
+msgid "User"
+msgstr "उपयोगकर्ता"
+
+msgid "Sale History"
+msgstr "बिक्री इतिहास"
+
+msgid "Hold Sale"
+msgstr "बिक्री पकड़ो"
+
+msgid "Offline Sale"
+msgstr "ऑफलाइन बिक्री"
+
+msgid "Brand"
+msgstr "ब्रैंड"
+
+msgid "Contact Info"
+msgstr "संपर्क सूचना"
+
+msgid "Sub Total"
+msgstr "उप योग"
+
+msgid "customer"
+msgstr "ग्राहक"
+
+msgid "Total Quantity"
+msgstr "कुल मात्रा"
+
+msgid "%{qty} of %{items}"
+msgstr "%{आइटम} का %{मात्रा}"
+
+msgid "Weight"
+msgstr "वज़न"
+
+msgid "Height"
+msgstr "कद"
+
+msgid "Width"
+msgstr "चौड़ाई"
+
+msgid "Length"
+msgstr "लंबाई"
+
+msgid "Tax Status"
+msgstr "कर स्थिति"
+
+msgid "Tax Class"
+msgstr "टैक्स कक्षा"
+
+msgid "products"
+msgstr "उत्पादों"
+
+msgid "Loading ..."
+msgstr "लोड हो रहा है ..."
+
+msgid "Up Sale"
+msgstr "बिक्री तक"
+
+msgid "Upload a Feature Image"
+msgstr "फ़ीचर छवि अपलोड करें"
+
+msgid "Barcode"
+msgstr "बारकोड"
+
+msgid "Seller"
+msgstr "विक्रेता"
+
+msgid "Customer info"
+msgstr "ग्राहक की जानकारी"
+
+msgid "Order Details"
+msgstr "ऑर्डर का विवरण"
+
+msgid "Print"
+msgstr "छाप"
+
+msgid "Manage Orders"
+msgstr "आदेश प्रबंधित करें"
+
+msgid "Customer Loading ..."
+msgstr "ग्राहक लोड हो रहा है..."
+
+msgid "Profile"
+msgstr "प्रोफ़ाइल"
+
+msgid "Logout"
+msgstr "लॉग आउट"
+
+msgid "Lock"
+msgstr "ताला"
+
+msgid "Change Password"
+msgstr "पासवर्ड बदलें"
+
+msgid "Sync from database"
+msgstr "डेटाबेस से सिंक"
+
+msgid "You are Connected"
+msgstr "आप जुड़ गए हैं"
+
+msgid "You Need To Check Your Connection"
+msgstr "आपको अपने कनेक्शन की जांच करने की आवश्यकता है"
+
+msgid "Change Outlet"
+msgstr "आउटलेट बदलें"
+
+msgid "Close fullscreen"
+msgstr "फ़ुलस्क्रीन बंद करें"
+
+msgid "Open fullscreen"
+msgstr "फ़ुलस्क्रीन खोलें"
+
+msgid "new"
+msgstr "नया"
+
+msgid "Select Counter"
+msgstr "काउंटर चुनें"
+
+msgid "Hello,"
+msgstr "नमस्ते,"
+
+msgid "Submit"
+msgstr "प्रस्तुत करना"
+
+msgid "Change"
+msgstr "परिवर्तन"
+
+msgid "Cash Drawer Balance"
+msgstr "कैश ड्रॉअर बैलेंस"
+
+msgid "Cash Drawer Balance:"
+msgstr "नकद आहरण शेष:"
+
+msgid "Go to Pos"
+msgstr "पोस पर जाएं"
+
+msgid "Go With Current Balance"
+msgstr "करंट बैलेंस के साथ जाएं"
+
+msgid "Help and info"
+msgstr "सहायता और जानकारी"
+
+msgid "Active Barcode Search"
+msgstr "सक्रिय बारकोड खोज"
+
+msgid "Active Product Search"
+msgstr "सक्रिय उत्पाद खोज"
+
+msgid "Pos Menu"
+msgstr "स्थिति मेनू"
+
+msgid "Checkout Page"
+msgstr "चेकआउट पेज"
+
+msgid "Full-screen/Normal-screen"
+msgstr "फ़ुल-स्क्रीन/सामान्य-स्क्रीन"
+
+msgid "Lock Screen"
+msgstr "लॉक स्क्रीन"
+
+msgid "Shortcut"
+msgstr "छोटा रास्ता"
+
+msgid "About"
+msgstr "के बारे में"
+
+msgid "Profile Info"
+msgstr "प्रोफ़ाइल जानकारी"
+
+msgid "Manage Profile"
+msgstr "प्रोफ़ाइल प्रबंधित करें"
+
+msgid "Role :"
+msgstr "भूमिका :"
+
+msgid "Current Outlet:"
+msgstr "वर्तमान आउटलेट:"
+
+msgid "Address:"
+msgstr "पता:"
+
+msgid "User Name:"
+msgstr "उपयोगकर्ता नाम:"
+
+msgid "Designation:"
+msgstr "पद:"
+
+msgid "Email:"
+msgstr "ईमेल:"
+
+msgid "Contact:"
+msgstr "संपर्क करना:"
+
+msgid "Total Outlet:"
+msgstr "कुल आउटलेट:"
+
+msgid "Current password"
+msgstr "वर्तमान पासवर्ड"
+
+msgid "New password"
+msgstr "नया पासवर्ड"
+
+msgid "Re-type New password"
+msgstr "नया पासवर्ड दोबारा टाइप करें"
+
+msgid "Search/Choose country"
+msgstr "देश खोजें/चुनें"
+
+msgid "Oops !! "
+msgstr "उफ़ !!"
+
+msgid "No item found for this category or search"
+msgstr "इस श्रेणी या खोज के लिए कोई आइटम नहीं मिला"
+
+msgid "Menu"
+msgstr "मेन्यू"
+
+msgid "Cart"
+msgstr "कार्ट"
+
+msgid "Product Details"
+msgstr "उत्पाद विवरण"
+
+msgid "Hold List"
+msgstr "होल्ड लिस्ट"
+
+msgid "Last 4 Digit:"
+msgstr "अंतिम 4 अंक:"
+
+msgid "Details"
+msgstr "विवरण"
+
+msgid "Choose property"
+msgstr "संपत्ति चुनें"
+
+msgid "Property"
+msgstr "संपत्ति"
+
+msgid "Value"
+msgstr "मूल्य"
+
+msgid "Amount:"
+msgstr "राशि:"
+
+msgid "Search or add a tag"
+msgstr "टैग खोजें या जोड़ें"
+
+msgid "Search/Choose Category"
+msgstr "खोजें/श्रेणी चुनें"
+
+msgid "Dimension and Tax"
+msgstr "आयाम और कर"
+
+msgid "None"
+msgstr "कोई भी नहीं"
+
+msgid "Taxable"
+msgstr "कर योग्य"
+
+msgid "Shipping only"
+msgstr "केवल शिपिंग"
+
+msgid "Standard"
+msgstr "मानक"
+
+msgid "Reduced rate"
+msgstr "घटी दर"
+
+msgid "Zero rate"
+msgstr "शून्य दर"
+
+msgid "Select / Custom Attributes"
+msgstr "चुनें / कस्टम गुण"
+
+msgid "Example `Color`"
+msgstr "उदाहरण `रंग`"
+
+msgid "Example Red|Blue|Green "
+msgstr "उदाहरण लाल|नीला|हरा"
+
+msgid "No Variants Selected"
+msgstr "कोई वेरिएंट नहीं चुना गया"
+
+msgid "Attributes List"
+msgstr "गुण सूची"
+
+msgid "Any Options"
+msgstr "कोई विकल्प"
+
+msgid "Dimension as Parent"
+msgstr "माता-पिता के रूप में आयाम"
+
+msgid "Shipping and Tax Will be same as Parent"
+msgstr "शिपिंग और टैक्स माता-पिता के समान होगा"
+
+msgid "Manage Barcode"
+msgstr "बारकोड प्रबंधित करें"
+
+msgid "Generate Barcodes"
+msgstr "बारकोड जनरेट करें"
+
+msgid "Choose a Outlet"
+msgstr "एक आउटलेट चुनें"
+
+msgid "Paper Size"
+msgstr "काग़ज़ का आकार"
+
+msgid "Choose a paper settings"
+msgstr "एक पेपर सेटिंग चुनें"
+
+msgid "Add Stock"
+msgstr "स्टॉक जोड़ें"
+
+msgid "Select Vendor"
+msgstr "विक्रेता का चयन करें"
+
+msgid "Choose Outlet"
+msgstr "आउटलेट चुनें"
+
+msgid "Choose/Search Product"
+msgstr "उत्पाद चुनें/खोजें"
+
+msgid "Choose Role"
+msgstr "भूमिका चुनें"
+
+msgid "Update Status?"
+msgstr "नवीनतम स्थिति?"
+
+msgid "Add to Cart"
+msgstr "कार्ट में डालें"
+
+msgid "Remove from hold"
+msgstr "होल्ड से हटाएं"
+
+msgid "Created Time"
+msgstr "बनाया गया समय"
+
+msgid "Edit Vendor"
+msgstr "विक्रेता संपादित करें"
+
+msgid "Successfully Updated"
+msgstr "सफलतापूर्वक उत्परिवर्तित"
+
+msgid "Purchase List Loading ..."
+msgstr "खरीदारी सूची लोड हो रही है..."
+
+msgid "Order List Loading ..."
+msgstr "आदेश सूची लोड हो रही है..."
+
+msgid "Product Loading ..."
+msgstr "उत्पाद लोड हो रहा है..."
+
+msgid "Stock List Loading ..."
+msgstr "स्टॉक सूची लोड हो रही है..."
+
+msgid "Vendor List Loading ..."
+msgstr "विक्रेता सूची लोड हो रही है..."
+
+msgid "User List Loading ..."
+msgstr "उपयोगकर्ता सूची लोड हो रही है..."
+
+msgid "Are you sure to delete this user: %{user}?"
+msgstr "क्या आप वाकई इस उपयोगकर्ता को हटाना चाहते हैं: %{user}?"
+
+msgid "Are you sure to delete this Customer: %{customer}?"
+msgstr "क्या आप वाकई इस ग्राहक को हटाना चाहते हैं: %{customer}?"
+
+msgid "Are you sure to remove item from Holds?"
+msgstr "क्या आप वाकई होल्ड से आइटम निकालना चाहते हैं?"
+
+msgid "Are you sure to remove all item from cart?"
+msgstr "क्या आप वाकई कार्ट से सभी आइटम निकालना चाहते हैं?"
+
+msgid "Loading Product Details..."
+msgstr "उत्पाद विवरण लोड हो रहा है..."
+
+msgid "Order Details Loading..."
+msgstr "आदेश विवरण लोड हो रहा है..."
+
+msgid "Loading Vendor Details..."
+msgstr "विक्रेता विवरण लोड हो रहा है..."
+
+msgid "Loading Customer Details..."
+msgstr "ग्राहक विवरण लोड हो रहा है..."
+
+msgid "Loading User Details..."
+msgstr "उपयोगकर्ता विवरण लोड हो रहा है..."
+
+msgid "Are you sure to delete this vendor: %{vendor}?"
+msgstr "क्या आप वाकई इस विक्रेता को हटाना चाहते हैं: %{vendor}?"
+
+msgid "Restore From Hold"
+msgstr "होल्ड से पुनर्स्थापित करें"
+
+msgid "Want You like to do with current cart ?"
+msgstr "क्या आप वर्तमान कार्ट के साथ करना चाहते हैं?"
+
+msgid "Hold cart"
+msgstr "गाड़ी पकड़ो"
+
+msgid "Clear Cart"
+msgstr "कार्ट को खाली करें"
+
+msgid "To POS"
+msgstr "पीओएस"
+
+msgid "Payment Note"
+msgstr "भुगतान नोट"
+
+msgid "Payment Amount"
+msgstr "भुगतान राशि"
+
+msgid "Card"
+msgstr "कार्ड"
+
+msgid "Type to search"
+msgstr "खोजने के लिए लिखें"
+
+msgid "Show Details"
+msgstr "प्रदर्शन का विवरण"
+
+msgid "Loading Purchase Details..."
+msgstr "खरीदारी विवरण लोड हो रहा है..."
+
+msgid "Purchase Details"
+msgstr "खरीदारी का ब्योरा"
+
+msgid "Outlet:"
+msgstr "दुकान:"
+
+msgid "Supplier:"
+msgstr "प्रदायक:"
+
+msgid "Purchased Date:"
+msgstr "खरीदी की तिथि:"
+
+msgid "Purchased No:"
+msgstr "खरीदी गई संख्या:"
+
+msgid "Purchased By:"
+msgstr "द्वारा खरीदा:"
+
+msgid "Payment Status:"
+msgstr "भुगतान की स्थिति:"
+
+msgid "Paid"
+msgstr "भुगतान किया गया"
+
+msgid "Unpaid"
+msgstr "अवैतनिक"
+
+msgid "Purchased Items"
+msgstr "खरीदे गए सामान"
+
+msgid "Items Price"
+msgstr "आइटम की कीमत"
+
+msgid "Total cost"
+msgstr "कुल लागत"
+
+msgid "Print Receipt"
+msgstr "प्रिंट रसीद"
+
+msgid "New sale"
+msgstr "नई बिक्री"
+
+msgid "Payment processing ..."
+msgstr "भुगतान प्रक्रिया ..."
+
+msgid "User loading ..."
+msgstr "उपयोगकर्ता लोड हो रहा है ..."
+
+msgid "Loading From"
+msgstr "से लोड हो रहा है"
+
+msgid "Pro Version Required for this feature"
+msgstr "इस सुविधा के लिए आवश्यक प्रो संस्करण"
+
+msgid "Hold Cart Supported In Pro Version"
+msgstr "प्रो संस्करण में समर्थित होल्ड कार्ट"
+
+msgid "Notification details"
+msgstr "अधिसूचना विवरण"
+
+msgid "Go To Purchase"
+msgstr "खरीदारी पर जाएं"
+
+msgid "Stock Alert!"
+msgstr "स्टॉक अलर्ट!"
+
+msgid "Stock is running low Please purchase item to increase stock"
+msgstr "स्टॉक कम चल रहा है कृपया स्टॉक बढ़ाने के लिए आइटम खरीदें"
+
+msgid "Personal Information"
+msgstr "व्यक्तिगत जानकारी"
+
+msgid "Outlet Information"
+msgstr "आउटलेट सूचना"
+
+msgid "Current Cash Drawer Information"
+msgstr "वर्तमान नकद आहरण सूचना"
+
+msgid "Cash Information"
+msgstr "नकद जानकारी"
+
+msgid "Opening Cash"
+msgstr "ओपनिंग कैश"
+
+msgid "Current Cash"
+msgstr "वर्तमान नकद"
+
+msgid "Counter Information"
+msgstr "काउंटर सूचना"
+
+msgid "Counter Number"
+msgstr "काउंटर नंबर"
+
+msgid "Want to close cash drawer?"
+msgstr "नकद दराज बंद करना चाहते हैं?"
+
+msgid "Need to close cash drawer to change outlet. Do you want to close now?"
+msgstr ""
+"आउटलेट बदलने के लिए नकद दराज बंद करने की आवश्यकता है। क्या आप अभी बंद करना "
+"चाहते हैं?"
+
+msgid "Cash Drawer"
+msgstr "नकदी दराज"
+
+msgid "No name found"
+msgstr "कोई नाम नहीं मिला"
+
+msgid "No number found"
+msgstr "कोई नंबर नहीं मिला"
+
+msgid "No designation found"
+msgstr "कोई पद नहीं मिला"
+
+msgid "No cash drawer information found"
+msgstr "कोई नकद दराज की जानकारी नहीं मिली"
+
+msgid "Download "
+msgstr "डाउनलोड"
+
+msgid "Add To Cart ("
+msgstr "कार्ट में जोड़ें ("
+
+msgid "Add To Cart"
+msgstr "कार्ट में जोड़ें"
+
+msgid "Changed Amount"
+msgstr "परिवर्तित राशि"
+
+msgid "Other"
+msgstr "अन्य"
+
+msgid "Cash Summary"
+msgstr "नकद सारांश"
+
+msgid "Close & Create New"
+msgstr "बंद करें और नया बनाएं"
+
+msgid "Close & Logout"
+msgstr "बंद करें और लॉगआउट करें"
+
+msgid "Current cash drawer order list"
+msgstr "वर्तमान नकद दराज आदेश सूची"
+
+msgid "Hold no : %{holdNo}"
+msgstr "होल्ड नं : %{holdNo}"
+
+msgid "Upload Image For This Variation"
+msgstr "इस विविधता के लिए छवि अपलोड करें"
+
+msgid "Do you want to close cash drawer & logout?"
+msgstr "क्या आप कैश ड्रॉअर और लॉगआउट बंद करना चाहते हैं?"
+
+msgid "Do you want to close current cash drawer & create new cash drawer?"
+msgstr "क्या आप वर्तमान नकद दराज को बंद करना और नया नकद दराज बनाना चाहते हैं?"
+
+msgid "Cash drawer loading..."
+msgstr "कैश ड्रॉअर लोड हो रहा है..."
+
+msgid "Thank You For Purchasing"
+msgstr "ख़रीदने के लिए धन्यवाद"
+
+msgid "Sign in using another account."
+msgstr "दूसरे खाते का उपयोग करके साइन इन करें।"
+
+msgid "click here"
+msgstr "यहां क्लिक करें"
+
+msgid "Regular unit price: %{reg_price}, sale price: %{sale}"
+msgstr "नियमित इकाई मूल्य: %{reg_price}, बिक्री मूल्य: %{sale}"
+
+msgid "You are not connected"
+msgstr "आप जुड़े नहीं हैं"
+
+msgid "This module is not support in offline"
+msgstr "यह मॉड्यूल ऑफ़लाइन में समर्थित नहीं है"
+
+msgid "Update Note"
+msgstr "अद्यतन नोट"
+
+msgid "Selected Product"
+msgstr "चयनित उत्पाद"
+
+msgid "Product Name"
+msgstr "प्रोडक्ट का नाम"
+
+msgid "Product Syncing"
+msgstr "उत्पाद सिंकिंग"
+
+msgid "Last sync :"
+msgstr "अंतिम समन्वयन:"
+
+msgid ""
+"To process order offline please ask your admin to enable offline order "
+"feature."
+msgstr ""
+"ऑर्डर को ऑफलाइन प्रोसेस करने के लिए कृपया अपने एडमिन से ऑफलाइन ऑर्डर फीचर को "
+"इनेबल करने के लिए कहें।"
+
+msgid "Upload More Images For This Product"
+msgstr "इस उत्पाद के लिए और छवियां अपलोड करें"
+
+msgid "No barcode found for this product"
+msgstr "इस उत्पाद के लिए कोई बारकोड नहीं मिला"
+
+msgid "This product already added in the list"
+msgstr "यह उत्पाद पहले ही सूची में जोड़ा जा चुका है"
+
+msgid "Set Password"
+msgstr "सांकेतिक शब्द लगना"
+
+msgid "Change password required"
+msgstr "पासवर्ड बदलें आवश्यक"
+
+msgid ""
+"This would be a temporary password.The user have to change their password on "
+"first login."
+msgstr ""
+"यह एक अस्थायी पासवर्ड होगा। उपयोगकर्ता को पहले लॉगिन पर अपना पासवर्ड बदलना "
+"होगा।"
+
+msgid "%{fld_name} does not match with its password"
+msgstr "%{fld_name} अपने पासवर्ड से मेल नहीं खाता"
+
+msgid "Set password"
+msgstr "सांकेतिक शब्द लगना"
+
+msgid "Loading..."
+msgstr "लोड हो रहा है..."
+
+msgid "Loading"
+msgstr "लोड हो रहा है"
+
+msgid "Roles Loading"
+msgstr "भूमिकाएँ लोड हो रही हैं"
+
+msgid "Attributes Loading"
+msgstr "गुण लोड हो रहा है"
+
+msgid "Edit Product"
+msgstr "उत्पाद संपादित करें"
+
+msgid "Are you sure to delete this product: %{product}?"
+msgstr "क्या आप वाकई इस उत्पाद को हटाना चाहते हैं: %{product}? "
+
+msgid "Customer add not supported in offline"
+msgstr "ग्राहक ऐड ऑफलाइन में समर्थित नहीं है"
+
+msgid "Click to see offline order"
+msgstr "ऑफलाइन ऑर्डर देखने के लिए क्लिक करें"
+
+msgid "Syncing offline orders"
+msgstr "ऑफ़लाइन आदेश समन्वयित करना"
+
+msgid ""
+"You do not have permission of add customer, contact your admin to get this "
+"permission."
+msgstr ""
+"आपके पास ग्राहक जोड़ने की अनुमति नहीं है, यह अनुमति प्राप्त करने के लिए अपने "
+"व्यवस्थापक से संपर्क करें।"
+
+msgid "Settings Loading"
+msgstr "सेटिंग्स लोड हो रहा है"
+
+msgid "POS"
+msgstr "स्थिति"
+
+msgid "Create New"
+msgstr "नया बनाओ"
+
+msgid "No address found"
+msgstr "कोई पता नहीं मिला"
+
+msgid "All"
+msgstr "सभी"
+
+msgid "hold items"
+msgstr "आइटम पकड़ो"
+
+msgid "Supplier"
+msgstr "प्रदायक"
+
+msgid "Select variation"
+msgstr "विविधता का चयन करें"
+
+msgid "Drawer Log"
+msgstr "दराज लॉग"
+
+msgid "Customer View"
+msgstr "ग्राहक दृश्य"
+
+msgid "Product Syncing."
+msgstr "उत्पाद सिंकिंग।"
+
+msgid "Select Sub-category"
+msgstr "उप-श्रेणी का चयन करें"
+
+msgid "Last 7 days cash drawer logs"
+msgstr "पिछले 7 दिनों के नकद दराज लॉग"
+
+msgid "Opened By"
+msgstr "द्वारा खोला गया"
+
+msgid "CLOSED BY"
+msgstr "द्वारा बंद"
+
+msgid "drawer logs"
+msgstr "दराज लॉग"
+
+msgid "Operate By"
+msgstr "द्वारा संचालित"
+
+msgid "Outlet - Counter"
+msgstr "आउटलेट - काउंटर"
+
+msgid "Balance"
+msgstr "संतुलन"
+
+msgid "Time"
+msgstr "समय"
+
+msgid "Offline"
+msgstr "ऑफलाइन"
+
+msgid "Completed"
+msgstr "पूरा हुआ"
+
+msgid "Show Price"
+msgstr "मूल्य दिखाएं"
+
+msgid "Show price on barcode label"
+msgstr "बारकोड लेबल पर मूल्य दिखाएं"
+
+msgid "Online"
+msgstr "ऑनलाइन"
+
+msgid "Order Status :"
+msgstr "आदेश की स्थिति :"
+
+msgid "Drawer Log Loading ..."
+msgstr "दराज लॉग लोड हो रहा है..."
+
+msgid "Opening - Closing"
+msgstr "उद्घाटन - समापन"
+
+msgid "Opening time"
+msgstr "खुलने का समय"
+
+msgid "Closing Time"
+msgstr "बंद करने का समय"
+
+msgid "Open :"
+msgstr "खुला हुआ :"
+
+msgid "Close :"
+msgstr "बंद करना :"
+
+msgid "Type"
+msgstr "टाइप"
+
+msgid "Previous Balance :"
+msgstr "पिछला बकाया :"
+
+msgid "Amount"
+msgstr "राशि"
+
+msgid "Opening Balance"
+msgstr "प्रारंभिक जमा"
+
+msgid "Closing Balance"
+msgstr "जमा शेष"
+
+msgid "On going"
+msgstr "चल रहे"
+
+msgid "No permission to add discount"
+msgstr "छूट जोड़ने की अनुमति नहीं"
+
+msgid "You can not add this much of discount"
+msgstr "आप इतनी छूट नहीं जोड़ सकते"
+
+msgid ""
+"Vitepos is a POS specialized software which is the right solution for your "
+"business."
+msgstr ""
+"विटेपोस एक पीओएस विशेषीकृत सॉफ्टवेयर है जो आपके व्यवसाय के लिए सही समाधान है।"
+
+msgid "Cash Drawer details"
+msgstr "नकद दराज विवरण"
+
+msgid "Drawer Opened"
+msgstr "दराज खोला गया"
+
+msgid "Make favorite"
+msgstr "पसंदीदा बनाएं"
+
+msgid "Add items to give discount"
+msgstr "छूट देने के लिए आइटम जोड़ें"
+
+msgid "Add items to add fee"
+msgstr "शुल्क जोड़ने के लिए आइटम जोड़ें"
+
+msgid "Role wise discount manage"
+msgstr "भूमिका के अनुसार छूट प्रबंधन"
+
+msgid "Email already exist."
+msgstr "ईमेल पहले से मौजूद है।"
+
+msgid "Username already exist."
+msgstr "उपयोगकर्ता नाम पहले से मौजूद।"
+
+msgid "Contact no already exist."
+msgstr "संपर्क नंबर पहले से मौजूद नहीं है।"
+
+msgid "This email already exist"
+msgstr "यह ईमेल पहले से मौजूद है"
+
+msgid "This username already exist"
+msgstr "यह उपयोगकर्ता नाम पहले से मौजूद है"
+
+msgid "This contact no already exist"
+msgstr "यह संपर्क पहले से मौजूद नहीं है"
+
+msgid "Email already exist"
+msgstr "ईमेल पहले से मौजूद है"
+
+msgid "Username already exist"
+msgstr "उपयोगकर्ता नाम पहले से मौजूद"
+
+msgid "Placeholder"
+msgstr "प्लेसहोल्डर"
+
+msgid "Successfully added"
+msgstr "सफलतापूर्वक शामिल"
+
+msgid "Delete is temporary disabled"
+msgstr "हटाना अस्थायी रूप से अक्षम है"
+
+msgid "Delete failed try again"
+msgstr "मिटाना विफल फिर से प्रयास करें"
+
+msgid "Purchase Item"
+msgstr "आइटम खरीदें"
+
+msgid "View All Purchase Item"
+msgstr "सभी खरीद आइटम देखें"
+
+msgid "Are you sure to delete?"
+msgstr "क्या वाकई हटाना है?"
+
+msgid "Pos Purchase"
+msgstr "स्थिति खरीद"
+
+msgid "View All Purchase"
+msgstr "सभी खरीदारी देखें"
+
+msgid "User Role"
+msgstr "उपयोगकर्ता भूमिका"
+
+msgid "View all Role List"
+msgstr "सभी भूमिका सूची देखें"
+
+msgid "Non editable role"
+msgstr "गैर संपादन योग्य भूमिका"
+
+msgid "No role data found"
+msgstr "कोई भूमिका डेटा नहीं मिला"
+
+msgid "Administrator can not be reset"
+msgstr "व्यवस्थापक को रीसेट नहीं किया जा सकता"
+
+msgid "Reset has been successfully done"
+msgstr "रीसेट सफलतापूर्वक किया गया"
+
+msgid "Failed to reset try again"
+msgstr "रीसेट करने में विफल पुनः प्रयास करें"
+
+msgid "Role copied successfully"
+msgstr "भूमिका सफलतापूर्वक कॉपी की गई"
+
+msgid "Update failed"
+msgstr "अपडेट विफल हुआ"
+
+msgid "No role found with this request param"
+msgstr "इस अनुरोध के साथ कोई भूमिका नहीं मिली परम"
+
+msgid "Move to role does not exists"
+msgstr "भूमिका में ले जाना मौजूद नहीं है"
+
+msgid "Role does not exists"
+msgstr "भूमिका मौजूद नहीं है"
+
+msgid "Update failed try again"
+msgstr "अपडेट विफल फिर से प्रयास करें"
+
+msgid "Failed to update"
+msgstr "अपडेट करने में विफल"
+
+msgid "It is custom barcode data of woocommerce for vitepos"
+msgstr "यह vitepos के लिए woocommerce का कस्टम बारकोड डेटा है"
+
+msgid "Barcode Value"
+msgstr "बारकोड मान"
+
+msgid "Captcha error, please try again"
+msgstr "कैप्चा त्रुटि, कृपया पुनः प्रयास करें"
+
+msgid "Successfully refreshed"
+msgstr "सफलतापूर्वक रीफ़्रेश किया गया"
+
+msgid "View All Settings"
+msgstr "सभी सेटिंग्स देखें"
+
+msgid "View All Outlet"
+msgstr "सभी आउटलेट देखें"
+
+msgid "Update Failed"
+msgstr "अपडेट विफल हुआ"
+
+msgid "This Property Should not be update"
+msgstr "यह संपत्ति अद्यतन नहीं होनी चाहिए"
+
+msgid "Invalid request3"
+msgstr "अमान्य अनुरोध3"
+
+msgid "No counter found with these ids"
+msgstr "इन आईडी के साथ कोई काउंटर नहीं मिला"
+
+msgid "No Outlet found with these ids"
+msgstr "इन आईडी के साथ कोई आउटलेट नहीं मिला"
+
+msgid "Outlet removed successfully"
+msgstr "आउटलेट सफलतापूर्वक हटा दिया गया"
+
+msgid "Outlet added successfully"
+msgstr "आउटलेट सफलतापूर्वक जोड़ा गया"
